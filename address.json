@@ -1,5 +1,5 @@
 {
-  "timestamp": 1608284679,
+  "timestamp": 1608305640,
   "signatures": {
     "anim_overlays": 10624,
     "clientstate_choked_commands": 19760,
@@ -46,7 +46,7 @@
     "dwZoomSensitivityRatioPtr": 14232928,
     "dwbSendPackets": 881210,
     "dwppDirect3DDevice9": 684112,
-    "find_hud_element": 668921472,
+    "find_hud_element": 1416425088,
     "force_update_spectator_glow": 3858930,
     "interface_engine_cvar": 256492,
     "is_c4_owner": 3910832,

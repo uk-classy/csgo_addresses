@@ -7,7 +7,7 @@
     "clientstate_last_outgoing_command": 19756,
     "clientstate_net_channel": 156,
     "convar_name_hash_table": 192760,
-    "dwClientState": 5828580,
+    "dwClientState": 5804004,
     "dwClientState_GetLocalPlayer": 384,
     "dwClientState_IsHLTV": 19784,
     "dwClientState_Map": 652,
